@@ -11,12 +11,16 @@
 	-moz-box-sizing: border-box;
          box-sizing:border-box;
 }
+
+}
+
 .nda{
 	margin right:  30%; 
 }
 
 .container{
-	text-decoration: italic;
+ background-image:  url( "images/img1.jpg");
+	text-decoration: ;
 	border: 10px solid #1256;
 	margin:0 auto;
   	padding-left:30px;
@@ -24,20 +28,62 @@
  	width:960px;
  	background-color: pink;
  	text-align: center;
- 	text-decoration-line: italic; 
-}  
+  color:#2345; 
+  height: 100%;
+
+}
+h1{
+  font-family:'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+.grid{
+  font-size:24px;
+  color:white;
+  text-align:center; 
+
+}
 .junior{
 	font-size:24px;
-	color:black;
+	color:white;
 	text-align:center;  
 }
 
 .gildas{
 	font-size:24px;
-	color:black;
+	color:white;
 	text-align:center; 
 
 }
+.copyright{
+  border: 10px;
+  padding-bottom: 30px;
+  width: 900px;
+  background-color: purple;
+  text-decoration: italic;
+  padding-right: 30px;
+  padding-left: 30px;
+  display: inline-block;
+  padding-top: 50px;
+}
+  
+
+
 
 
 
@@ -66,12 +112,20 @@
 	border-radius: 5px;
 	display:inline-block;
     margin: 0;
-    color: 
+    color: black;
+    background-color: purple;
+    font-style: italic;
+    text-decoration: none; 
+}
+}
+h3{
+  color: white;
 }
 .btn-alt{
-	border: 1px solid#dfe2ef;
-	padding:10px 30px;
-	text-decoration: none; 
+	border: 1px solid  #2345;
+	padding:15px 20px;
+
+
 }
 
 .first{
