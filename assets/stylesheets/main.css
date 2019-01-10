@@ -19,17 +19,15 @@
 }
 
 .container{
- background-image:  url( "images/img1.jpg");
-	text-decoration: ;
 	border: 10px solid #1256;
 	margin:0 auto;
-  	padding-left:30px;
-  	padding-right:30px;
- 	width:960px;
+  	
+  	
+ 
  	background-color: pink;
  	text-align: center;
   color:#2345; 
-  height: 100%;
+  
 
 }
 h1{
@@ -158,4 +156,43 @@ layout
    }
    .container
         padding
+
+
+
+
+
+
+        menu{
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "courier New";
+  padding: 24px 15px;
+  text-align: center;
+   }
+   header,
+   section,
+   aside,
+   footer{
+  margin: 0 1.5% 24px 1.5%
+    } 
+    .junior{
+      display: inline-block;
+      width: 30.3%;
+    }
+    .gildas{
+      display: inline-block;
+      width: 30.3%;
+    }
+    .kevine{
+      display: inline-block;
+      width: 30.3%;
+    }
+    
+
+    footer{
+  margin-bottom: 0;
+}
+
       
