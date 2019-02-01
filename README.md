@@ -1,2 +1,0 @@
-# fist-project
-project app
